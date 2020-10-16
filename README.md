@@ -1,3 +1,1 @@
-# EmotionTracker a
-
-## Hej hej
+# EmotionTracker
